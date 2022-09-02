@@ -1,0 +1,16 @@
+*{
+  color: green;
+  font-size: 25px;
+}
+
+h1{
+  color: blue;
+  font-size: 25px;
+}
+
+#my-title{
+  color: red;
+  font-size: 25px;
+  margin: 0 auto;
+  padding-lafte:15px;
+}
